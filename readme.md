@@ -92,4 +92,9 @@
   <img src="https://streak-stats.demolab.com?user=joehosten&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
-###
+### 
+<div align="center">
+  <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yyjto5vba4dqwzg3e38042e1s&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
