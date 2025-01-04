@@ -81,17 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joehosten&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=joehosten&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
-</div>
-
 ### 
 <div align="center">
   <a href="https://open.spotify.com/user/yyjto5vba4dqwzg3e38042e1s">
