@@ -65,8 +65,8 @@
 ###
 
 <div align="center">
-  You are the:
-  <img src="https://profile-counter.glitch.me/joehosten/count.svg?"  />
+  You are the:  
+  <img src="https://profile-counter.glitch.me/joehosten/count.svg?"  />  
   visitor!
 </div>
 
