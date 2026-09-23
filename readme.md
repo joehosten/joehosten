@@ -12,4 +12,3 @@
 
 ---
 
-[Website](https://joehosten.me) • [LinkedIn](https://www.linkedin.com/in/jhosten/) • [Email](joe@joehosten.me)
